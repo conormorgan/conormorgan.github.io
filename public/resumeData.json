@@ -44,7 +44,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"I have hands-on experience with a range of languages, frameworks and technologies from my time at university and my own projects. I am most confident with Python and the data analysis packages NumPy, Pandas and sci-kit etc.",
+    "skillmessage":"I have hands-on experience with a range of languages, frameworks and technologies from my time at university and my own projects. I am most proficient with Python and the data analysis packages NumPy, Pandas and sci-kit etc.",
     "education":[
       {
         "school":"University of Glasgow",
@@ -62,15 +62,21 @@
     "work":[
       {
         "company":"Pentagon Solutions",
-        "title":"Whatever this role was",
+        "title":"CRM Integrations",
         "years":"May 2019 - September 2019",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company":"Camp Freindship",
+        "company":"Camp Friendship",
         "title":"Senior Counsellor",
         "years":"June 2017 - August 2017",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Next Home",
+        "title": "Sales Assistant",
+        "years": "June 2014 - July 2014",
+        "description": "Vital member of the staff dealing with customers and improving sales. I had the record sales total of all staff members in my exciting, envigorating and unforgettable time at Next."
       }
     ],
     "skills":[
