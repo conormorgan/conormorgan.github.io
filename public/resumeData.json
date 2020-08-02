@@ -4,11 +4,11 @@
     "description":"Welcome to my website! I'm a Computing Science graduate from University of Glasgow with an interest in Data Analysis and Recommender Systems. My website contains information about me and links to projects that I've worked on",
     "image":"profilepic.jpg",
     "bio_tech":"I'm a fresh graduate currently on the hunt for a job. I'm most comfortable developing in Python and completed my final year university project researching Recommender Systems, specifically Context-Aware Recommender Systems. Another major interest is Data Analysis and providing insightful observations with a range of data visualisation techniques.",
-    "bio_hobbies": "I'm an avid sportsman and try to be as active as I can in my free time. I play both football and Gaelic football competitively, competing in both at university and higher levels including being voted as club captain of Glasgow University Football Club. ",
+    "bio_hobbies": "I'm an avid sportsman and try to be as active as I can in my free time. I play both football and Gaelic football competitively, competing in both at university and higher levels including being selected as club captain of Glasgow University Football Club. ",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "conor5morgan@hotmail.co.uk",
     "github":"https://github.com/conormorgan",
-    "project":"https://github.com/conormorgan/personal-site",
+    "project":"https://github.com/conormorgan/conormorgan.github.io",
     "address":{
       "street":"(Your Street)",
       "city":"Belfast // Glasgow"
@@ -62,7 +62,7 @@
     "work":[
       {
         "company":"Pentagon Solutions",
-        "title":"Database Assistant",
+        "title":"Whatever this role was",
         "years":"May 2019 - September 2019",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
