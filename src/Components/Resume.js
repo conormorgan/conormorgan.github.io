@@ -10,10 +10,15 @@ class Resume extends Component {
     }
     return color;
   }
+
+  getRandomColour(numSkills){
+    
+  }
   
   render() {
 
     if(this.props.data){
+      console.log(this.props.data.skills.length)
       var skillmessage = this.props.data.skillmessage;
       var education = this.props.data.education.map(function(education){
         return <div key={education.school}><h3>{education.school}</h3>
@@ -29,9 +34,10 @@ class Resume extends Component {
 
       var skills = this.props.data.skills.map((skills)=>{
         var className = 'bar-expand '+skills.name.toLowerCase();
+        console.log(skills)
         return (
           <li key={skills.name}>
-            <span style={{width:skills.level, backgroundColor:this.getRandomColor()}}className={className}></span><em>{skills.name}</em>
+            <span style={{width:skills.level, backgroundColor:skills.colour}}className={className}></span><em>{skills.name}</em>
           </li>
         )
       })
