@@ -82,35 +82,43 @@
     "skills":[
       {
         "name":"Python",
-        "level":"90%"
+        "level":"90%",
+        "colour":"#73e2a7"
       },
       {
         "name":"Java",
-        "level":"85%"
+        "level":"85%",
+        "colour":"#aa4465"
       },
       {
         "name":"Django",
-        "level":"70%"
+        "level":"70%",
+        "colour":"#f7bfb4"
       },
       {
         "name":"React",
-        "level":"60%"
+        "level":"60%",
+        "colour":"#eca72c"
       },
       {
         "name" : "JavaScript",
-        "level": "60%"
+        "level": "60%",
+        "colour":"#5c7aff"
       },
       {
         "name" : "Haskell - Functional Programming",
-        "level" : "55%"
+        "level" : "55%",
+        "colour":"#254d32"
       },
       {
         "name":"CSS",
-        "level":"50%"
+        "level":"50%",
+        "colour":"#775144"
       },
       {
         "name":"SQL",
-        "level":"50%"
+        "level":"50%",
+        "colour":"#016fb9"
       }
     ]
   },
