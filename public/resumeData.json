@@ -125,10 +125,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://github.com/conormorgan"
+        "title":"Premier League Nations",
+        "category":"My analysis of the nations that have featured in the English Premier League",
+        "image":"flags.jpg",
+        "url":"https://conormorgan.github.io/premier-league-nationalities/"
       },
       {
         "title":"Fury Fighting Gear",

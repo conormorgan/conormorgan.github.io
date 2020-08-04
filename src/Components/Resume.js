@@ -11,9 +11,6 @@ class Resume extends Component {
     return color;
   }
 
-  getRandomColour(numSkills){
-    
-  }
   
   render() {
 
