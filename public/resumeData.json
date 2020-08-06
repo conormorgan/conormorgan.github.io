@@ -13,7 +13,7 @@
       "street":"(Your Street)",
       "city":"Belfast // Glasgow"
     },
-    "website": "https://github.com/conormorgan",
+    "website": "https://conormorgan.github.io",
     "resumedownload":"https://github.com/conormorgan",
     "social":[
       {
@@ -96,22 +96,22 @@
         "colour":"#f7bfb4"
       },
       {
-        "name":"React",
+        "name":"Javascript, React",
         "level":"60%",
         "colour":"#eca72c"
       },
       {
-        "name" : "JavaScript",
-        "level": "60%",
+        "name" : "Version Control Systems - Git, Github, GitLab",
+        "level": "75%",
         "colour":"#5c7aff"
       },
       {
-        "name" : "Haskell - Functional Programming",
+        "name" : "Functional Programming - Haskell",
         "level" : "55%",
         "colour":"#254d32"
       },
       {
-        "name":"CSS",
+        "name":"HTML, CSS",
         "level":"50%",
         "colour":"#775144"
       },
@@ -129,18 +129,6 @@
         "category":"My analysis of the nations that have featured in the English Premier League",
         "image":"flags.jpg",
         "url":"https://conormorgan.github.io/premier-league-nationalities/"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"https://github.com/conormorgan"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"https://github.com/conormorgan"
       },
       {
         "title":"Resume Website",

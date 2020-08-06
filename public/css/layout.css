@@ -138,7 +138,8 @@ header .scrolldown a:hover { color: #0762f9; }
 .opaque { background-color: #333; }
 
 /* hide toggle button */
-#nav-wrap > a.mobile-btn { display: none; }
+#nav-wrap > a.mobile-btn { display: none;   background-color: #19f14f;
+}
 
 ul#nav {
    min-height: 48px;
@@ -170,7 +171,8 @@ ul#nav li a {
 	-moz-transition: color .2s ease-in-out;
 	-o-transition: color .2s ease-in-out;
 	-ms-transition: color .2s ease-in-out;
-	transition: color .2s ease-in-out;
+   transition: color .2s ease-in-out;
+
 }
 
 ul#nav li a:active { background-color: transparent !important; }
@@ -284,7 +286,7 @@ ul#nav li.current a { color: #19f14f; }
 	width: 95%;
 	float: left;
 	padding: 0;
-	text-align: left;
+   text-align: left;
 }
 .bars .skills {
   	margin-top: 36px;
@@ -293,9 +295,9 @@ ul#nav li.current a { color: #19f14f; }
 .bars li {
    position: relative;
   	margin-bottom: 60px;
-  	background: #333;
+  	background: #33333323;
   	height: 42px;
-   border-radius: 0px;
+   border-radius: 5px;
    
 }
 .bars li em {
@@ -305,20 +307,27 @@ ul#nav li.current a { color: #19f14f; }
    letter-spacing: 2px;
 	font-weight: normal;
    position: relative;
-	top: -36px;
+   top: -40px;
+}
+/* Use this span to have values in the coloured bar and aligned right */
+.bars li span{
+   color: white;
+   text-align: right;
+   /* font-weight: bold; */
+   padding-right: 5px;
+   /* padding-top: 30px; Use this to lower the value below the bar*/
 }
 .bar-expand {
    position: absolute;
    left: 0;
    top: 0;
-
    margin: 0;
    padding-right: 24px;
   	background: #313131;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
-   border-radius: 0px;
+   border-radius: 5px;
 }
 /*
 .git {
@@ -936,7 +945,7 @@ footer {
 }
 
 footer a, footer a:visited { color: #525252; }
-footer a:hover, footer a:focus { color: #fff; }
+footer a:hover, footer a:focus { color: #19f14f; }
 
 /* copyright */
 footer .copyright {
@@ -1004,7 +1013,7 @@ footer .social-links li:first-child { margin-left: 0; }
    line-height: 60px;
  	border-radius: 100%;
 }
-#go-top a:hover { background-color: #0F9095; }
+#go-top a:hover { background-color: #19f14f; }
 
 
 .social .btn:first-child{
