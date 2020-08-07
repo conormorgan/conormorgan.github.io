@@ -70,7 +70,7 @@
         "company":"Camp Friendship",
         "title":"Senior Counsellor",
         "years":"June 2017 - August 2017",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"I spent the summer of 2017 working at Camp Friendship, a summer camp in Virginia, USA. The experience was unforgettable, and I learned a lot and enjoyed my time there. I was tasked with looking after a group of 4-6 boys of ages 10-12 each day of the week, starting at 9am and finishing at 10pm in the evening. Due to the nature of the job, I often found myself in unusual scenarios in which I needed to be flexible and quick-thinking to keep the kids happy and entertained. I was reliable and dependable as I was the kids’ main point of contact with any issues and the camp and parents were able to trust me with the well-being of their children."
       },
       {
         "company": "Next Home",
@@ -127,14 +127,14 @@
       {
         "title":"Premier League Nations",
         "category":"My analysis of the nations that have featured in the English Premier League",
-        "image":"flags.jpg",
+        "image":"flags1.jpg",
         "url":"https://conormorgan.github.io/premier-league-nationalities/"
       },
       {
-        "title":"Resume Website",
+        "title":"Glasgow University Football Club",
         "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"https://conormorgan.github.io/"
+        "image":"gufc.jpg",
+        "url":"https://glasgowunifc.wordpress.com/"
       }
     ]
   }
