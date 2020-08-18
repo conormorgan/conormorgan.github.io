@@ -50,13 +50,15 @@
         "school":"University of Glasgow",
         "degree":"B.Sc Computing Science with Honours of 2nd Class (Division 1)",
         "graduated":"May 2020",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "descript_pt1":"I thoroughly enjoyed studying at University of Glasgow and this is where I gained most of my Computing Science experience. The first couple years of the course were designed to give a broader understanding of key concepts of computer science such as object-oriented programming, web development, algorithms and data structures. Python and Java were used extensively so I have a good understanding of those languages. In the final years, studying for honours, there was more flexibility with the ability to choose courses that were more specialised and of interest. I mostly choose classes with a data analysis theme such as Text as Data, Database Systems, Machine Learning, Recommender Systems and Big Data. In 3rd year we were split into groups and each group worked with a customer to develop a project to be used. My group was tasked with recreating educational games that were created in Flash (Spelling and counting money e.g.). We used HTML5 and React to create updated versions that could run on all systems and browsers. In final year for my individual project I looked at recommender systems, specifically context-aware systems and to see which context aware recommender performs best. ",
+        "descript_pt2":"At university I joined the football and Gaelic football clubs and had great success. After my first year at the football club, I got voted on to the club committee and then stayed on committee for the remaining years becoming club secretary and then club captain. Both secretary and captain were important roles as the are vital for the running of the club. I needed to be reliable and organised to do well in the roles. On a personal side of things, I was selected to represent the Scotland Universities Select team 4 years in a row and was chosen as captain of the team. I also received an award from the University of Glasgow for my football achievements."
       },
       {
-        "school":"St. Malachy's College Belfast",
+        "school":"St. Malachy's College, Belfast",
         "degree":"A-levels and GCSEs",
         "graduated":"May 2015",
-        "description":"3 A-Levels grades A-B, 10 GCSES grades A*-B. A-Levels: Mathematics - A; Physics - B; Spanish - B "
+        "descript_pt1":"St Malachy’s was a great school for me as I was able to study and develop over a variety of classes and succeed academically but also, because of the sport facilities and opportunities available. I took 10 GCSEs and achieved 3 A* in Maths, Spanish and IT and 5 As and 2 Bs in the rest. I continued to A-levels and chose Maths, Spanish and Physics and achieved an A in Maths and B grades in the remaining 2.",
+        "descript_pt2":"Throughout my full time at school I was a key member of both football and Gaelic football winning trophies in both sports. In my final year at school I won a personal award for my achievements in football at St Malachy’s and I was chosen to represent Northern Ireland at Schoolboys U18 level. The mixture of sport and education was invaluable for my development as person and it brought many qualities of teamwork, communication and leadership to fruition."
       }
     ],
     "work":[
@@ -64,19 +66,22 @@
         "company":"Pentagon Solutions",
         "title":"CRM Integrations",
         "years":"May 2019 - September 2019",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "descript_pt1":"Whilst at Pentagon Solutions I worked mainly with Workbooks customer management database and then also to link the database to a PowerBI dashboard. In Workbooks, I was tasked with cleansing the data, finding duplicates, adding product information and adding new records. Workbooks is used by all sales staff at the company and so it was important that the data was as up-to-date and accurate as possible. I was able to create queries of the database to highlight potential customers with certain qualities or location for example and give this to the sales team to expand business.",
+        "descript_pt2":"In PowerBI, I created a dashboard that pulled data directly from the database and would update in real time. The dashboard was designed to show how each salesperson was completing their tasks and was used by management."
       },
       {
         "company":"Camp Friendship",
         "title":"Senior Counsellor",
         "years":"June 2017 - August 2017",
-        "description":"I spent the summer of 2017 working at Camp Friendship, a summer camp in Virginia, USA. The experience was unforgettable, and I learned a lot and enjoyed my time there. I was tasked with looking after a group of 4-6 boys of ages 10-12 each day of the week, starting at 9am and finishing at 10pm in the evening. Due to the nature of the job, I often found myself in unusual scenarios in which I needed to be flexible and quick-thinking to keep the kids happy and entertained. I was reliable and dependable as I was the kids’ main point of contact with any issues and the camp and parents were able to trust me with the well-being of their children."
+        "descript_pt1":"I spent the summer of 2017 working at Camp Friendship, a summer camp in Virginia, USA. The experience was unforgettable, and I learned a lot and enjoyed my time there. I was tasked with looking after a group of 4-6 boys of ages 10-12 each day of the week, starting at 9am and finishing at 10pm in the evening.",
+        "descript_pt2":"Due to the nature of the job, I often found myself in unusual scenarios in which I needed to be flexible and quick-thinking to keep the kids happy and entertained. I was reliable and dependable as I was the kids’ main point of contact with any issues and the camp and parents were able to trust me with the well-being of their children."
       },
       {
         "company": "Next Home",
         "title": "Sales Assistant",
-        "years": "June 2014 - July 2014",
-        "description": "Vital member of the staff dealing with customers and improving sales. I had the record sales total of all staff members in my exciting, envigorating and unforgettable time at Next."
+        "years": "July 2014",
+        "descript_pt1": "I worked in Next as temporary staff for the Next summer sale. This job was a short way to experience working life and give me an idea of the requirements and expectations of being an employee. I was on the shop floor during the sale and was available to help customers and answer any queries that customers had.",
+        "descript_pt2":"I learned how to deal with and speak to the public whilst representing a company and the importance of good communication skills. It was my first taste of work and I found it valuable to see for myself how good organization, timekeeping and communication skills are beneficial."
       }
     ],
     "skills":[
@@ -126,13 +131,13 @@
     "projects": [
       {
         "title":"Premier League Nations",
-        "category":"My analysis of the nations that have featured in the English Premier League",
+        "description":"My analysis of the nations that have featured in the English Premier League",
         "image":"flags1.jpg",
         "url":"https://conormorgan.github.io/premier-league-nationalities/"
       },
       {
         "title":"Glasgow University Football Club",
-        "category":"A React based resume website template",
+        "description":"Website created for the Glasgow University Football Club",
         "image":"gufc.jpg",
         "url":"https://glasgowunifc.wordpress.com/"
       }
