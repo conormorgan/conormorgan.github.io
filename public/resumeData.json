@@ -3,8 +3,8 @@
     "name":"Conor Morgan",
     "description":"Welcome to my website! I'm a Computing Science graduate from University of Glasgow with an interest in Data Analysis and Recommender Systems. My website contains information about me and links to projects that I've worked on",
     "image":"profilepic.jpg",
-    "bio_tech":"I'm a fresh graduate currently on the hunt for a job. I'm most comfortable developing in Python and completed my final year university project researching Recommender Systems, specifically Context-Aware Recommender Systems. Another major interest is Data Analysis and providing insightful observations with a range of data visualisation techniques.",
-    "bio_hobbies": "I'm an avid sportsman and try to be as active as I can in my free time. I play both football and Gaelic football competitively, competing in both at university and higher levels including being selected as club captain of Glasgow University Football Club. ",
+    "bio_tech":"Recent graduate working as a software developer. I use .Net professionally and Python in my free time. A major interest is Data Analysis and providing insightful observations with a range of data visualisation techniques.",
+    "bio_hobbies": "I'm an avid sportsman and try to be as active as I can in my free time. I play both football and Gaelic football competitively and to keep fit",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "conor5morgan@hotmail.co.uk",
     "github":"https://github.com/conormorgan",
@@ -44,65 +44,53 @@
     ]
   },
   "resume":{
-    "skillmessage":"I have hands-on experience with a range of languages, frameworks and technologies from my time at university and my own projects. I am most proficient with Python and the data analysis packages NumPy, Pandas and sci-kit etc.",
+    "skillmessage":"I have good experience with a range of languages and frameworks from work, university and personal projects.",
     "education":[
       {
         "school":"University of Glasgow",
         "degree":"B.Sc Computing Science with Honours of 2nd Class (Division 1)",
         "graduated":"May 2020",
-        "descript_pt1":"I thoroughly enjoyed studying at University of Glasgow and this is where I gained most of my Computing Science experience. The first couple years of the course were designed to give a broader understanding of key concepts of computer science such as object-oriented programming, web development, algorithms and data structures. Python and Java were used extensively so I have a good understanding of those languages. In the final years, studying for honours, there was more flexibility with the ability to choose courses that were more specialised and of interest. I mostly choose classes with a data analysis theme such as Text as Data, Database Systems, Machine Learning, Recommender Systems and Big Data. In 3rd year we were split into groups and each group worked with a customer to develop a project to be used. My group was tasked with recreating educational games that were created in Flash (Spelling and counting money e.g.). We used HTML5 and React to create updated versions that could run on all systems and browsers. In final year for my individual project I looked at recommender systems, specifically context-aware systems and to see which context aware recommender performs best. ",
-        "descript_pt2":"At university I joined the football and Gaelic football clubs and had great success. After my first year at the football club, I got voted on to the club committee and then stayed on committee for the remaining years becoming club secretary and then club captain. Both secretary and captain were important roles as the are vital for the running of the club. I needed to be reliable and organised to do well in the roles. On a personal side of things, I was selected to represent the Scotland Universities Select team 4 years in a row and was chosen as captain of the team. I also received an award from the University of Glasgow for my football achievements."
+        "desc1":"Used Python and Java as main languages throughout university. Completed my dissertation implementing a recommendation system using Python, specifically Context-Aware Recommender Systems.",
+        "desc2":"Familiar with web development frameworks Django for Python and React for JavaScript including using React for a year-long project.",
+        "desc3":"Other notable topics were studying Database Systems with SQL, Algorithms and Data structures in Python and Java and Functional Programming with Haskell."
       },
       {
         "school":"St. Malachy's College, Belfast",
         "degree":"A-levels and GCSEs",
         "graduated":"May 2015",
-        "descript_pt1":"St Malachy’s was a great school for me as I was able to study and develop over a variety of classes and succeed academically but also, because of the sport facilities and opportunities available. I took 10 GCSEs and achieved 3 A* in Maths, Spanish and IT and 5 As and 2 Bs in the rest. I continued to A-levels and chose Maths, Spanish and Physics and achieved an A in Maths and B grades in the remaining 2.",
-        "descript_pt2":"Throughout my full time at school I was a key member of both football and Gaelic football winning trophies in both sports. In my final year at school I won a personal award for my achievements in football at St Malachy’s and I was chosen to represent Northern Ireland at Schoolboys U18 level. The mixture of sport and education was invaluable for my development as person and it brought many qualities of teamwork, communication and leadership to fruition."
+        "desc1":"10 GCSEs and achieved 3 A* in Maths, Spanish and IT and 5 As and 2 Bs",
+        "desc2":"A-levels and chose Maths, Spanish and Physics and achieved an A in Maths and B grades in the others."
       }
     ],
     "work":[
       {
         "company":"Pentagon Solutions",
-        "title":"CRM Integrations",
-        "years":"May 2019 - September 2019",
-        "descript_pt1":"Whilst at Pentagon Solutions I worked mainly with Workbooks customer management database and then also to link the database to a PowerBI dashboard. In Workbooks, I was tasked with cleansing the data, finding duplicates, adding product information and adding new records. Workbooks is used by all sales staff at the company and so it was important that the data was as up-to-date and accurate as possible. I was able to create queries of the database to highlight potential customers with certain qualities or location for example and give this to the sales team to expand business.",
-        "descript_pt2":"In PowerBI, I created a dashboard that pulled data directly from the database and would update in real time. The dashboard was designed to show how each salesperson was completing their tasks and was used by management."
-      },
-      {
-        "company":"Camp Friendship",
-        "title":"Senior Counsellor",
-        "years":"June 2017 - August 2017",
-        "descript_pt1":"I spent the summer of 2017 working at Camp Friendship, a summer camp in Virginia, USA. The experience was unforgettable, and I learned a lot and enjoyed my time there. I was tasked with looking after a group of 4-6 boys of ages 10-12 each day of the week, starting at 9am and finishing at 10pm in the evening.",
-        "descript_pt2":"Due to the nature of the job, I often found myself in unusual scenarios in which I needed to be flexible and quick-thinking to keep the kids happy and entertained. I was reliable and dependable as I was the kids’ main point of contact with any issues and the camp and parents were able to trust me with the well-being of their children."
-      },
-      {
-        "company": "Next Home",
-        "title": "Sales Assistant",
-        "years": "July 2014",
-        "descript_pt1": "I worked in Next as temporary staff for the Next summer sale. This job was a short way to experience working life and give me an idea of the requirements and expectations of being an employee. I was on the shop floor during the sale and was available to help customers and answer any queries that customers had.",
-        "descript_pt2":"I learned how to deal with and speak to the public whilst representing a company and the importance of good communication skills. It was my first taste of work and I found it valuable to see for myself how good organization, timekeeping and communication skills are beneficial."
+        "title":"Junior Developer",
+        "years":"October 2020 - Present",
+        "desc1":"Generally working with customers in the construction sector needing solutions for their building projects. Use .Net Framework/Core C# and ASP to develop bespoke apps and products for customers.",
+        "desc2":"Apps interact with SQL Databases and Autodesk construction products (e.g Navisworks, BIM 360, Forge).",
+        "desc3":"Completed training course in 2022 on .Net Core MVC practices."
       }
     ],
     "skills":[
       {
-        "name":"Python",
+        "name":".Net C# (Framework, Core MVC)",
         "level":"90%",
         "colour":"#73e2a7"
       },
       {
-        "name":"Java",
+        "name":"Python",
         "level":"85%",
         "colour":"#aa4465"
       },
       {
-        "name":"Django",
+        "name":"SQL",
         "level":"70%",
         "colour":"#f7bfb4"
       },
       {
-        "name":"Javascript, React",
-        "level":"60%",
+        "name":"Web Development (ASP, Javascript, React, Django)",
+        "level":"65%",
         "colour":"#eca72c"
       },
       {
@@ -114,16 +102,6 @@
         "name" : "Functional Programming - Haskell",
         "level" : "55%",
         "colour":"#254d32"
-      },
-      {
-        "name":"HTML, CSS",
-        "level":"50%",
-        "colour":"#775144"
-      },
-      {
-        "name":"SQL",
-        "level":"50%",
-        "colour":"#016fb9"
       }
     ]
   },
